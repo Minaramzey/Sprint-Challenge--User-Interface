@@ -144,3 +144,139 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* .main{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+} */
+
+
+.main-header{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.main-header .about-page {
+    padding: 10px;
+}
+.main-header .about-page .links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    
+    /* border: green solid 1px; */
+}
+.main-header .about-page .links a{
+    padding: 0 20px;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+}
+
+.about{
+    margin-top: 3%;
+}
+
+
+hr{
+    border-top: 1px dashed black;
+}
+
+.top{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 800px;
+    margin: 0 auto;
+
+}
+.content-section{
+    display: flex;
+    justify-items: stretch;
+    margin-bottom: 20px;
+    
+}
+
+.content-section .box-top{
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px;
+   
+   }
+
+   .content-section .box-bottom{
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px;
+ 
+   }
+
+
+   .learn-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.learn-section .last {
+    padding-right: 4%;
+}
+
+.learn-section .last {
+    padding-right: 0;
+}
+
+footer {
+    width: 50%;
+    background: black;
+    margin-left: 25%;
+   margin-top: 3%;
+}
+
+footer .footer {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+    
+
+}
+
+footer .footer a {
+    color: white;
+    text-decoration: none;
+}
+
+/*--------------------------------------------------------*/
+
+.index-header{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.index-header .about-page {
+    padding: 10px;
+}
+.index-header .index-about-page .links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    
+    /* border: green solid 1px; */
+}
+.index-header .index-about-page .links a{
+    padding: 0 20px;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+}
+
+   
+
+    
