@@ -126,31 +126,27 @@ p {
     padding-right: 0;
 }
 
-footer {
+.footer-index {
     width: 100%;
     background: black;
+    margin-left: 0%;
 }
 
-footer nav {
+.footer-index .index-footer {
     width: 60%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    
+
 }
 
-footer nav a {
+.footer-index .index-footer a {
     color: white;
     text-decoration: none;
 }
-
-/* .main{
-    margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-} */
 
 
 .main-header{
@@ -277,6 +273,43 @@ footer .footer a {
     color: black;
 }
 
-   
+.middle-content .boxes .box1{
+    background: teal;
+    
+  }
+  .middle-content .boxes .box2{
+    background: gold;
+  }
+
+  .middle-content .boxes .box3{
+    background: cadetblue;
+  }
+  .middle-content .boxes .box4{
+    background: coral;
+  }
+  .middle-content .boxes .box5{
+    background: crimson;
+  }
+  .middle-content .boxes .box6{
+    background: forestgreen;
+  }
+  .middle-content .boxes .box7{
+    background: darkorchid;
+  }
+  .middle-content .boxes .box8{
+    background: hotpink;
+  }
+  .middle-content .boxes .box9{
+    background: indigo;
+  }
+  .middle-content .boxes .box10{
+    background: dodgerblue;
+  }
+
+
+}
+
+
+
 
     
